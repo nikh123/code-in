@@ -1,7 +1,12 @@
-# README
+# Introduction
 
 This is my work from Google Code in `Reading and Writing CSV data - R Project for Statistical Computing`. Below I will describe my code with comments.
 
+# Required
+- R
+- R studio
+
+# Code description
 ```
 # Create a CSV File called Task1.csv for the next step. Output of the csv below
 ID, name
@@ -32,3 +37,4 @@ X=read.csv("https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.
 head(X)
 
 ```
+# Screen recording 
